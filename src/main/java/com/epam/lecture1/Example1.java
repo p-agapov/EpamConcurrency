@@ -1,6 +1,6 @@
 package com.epam.lecture1;
 
-public class example1 {
+public class Example1 {
 
     private int field = 42;
 

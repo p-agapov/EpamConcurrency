@@ -5,7 +5,7 @@ import org.openjdk.jol.vm.VM;
 
 import static java.lang.System.out;
 
-public class example2 {
+public class Example2 {
 
     //HEAP
     //NON-HEAP

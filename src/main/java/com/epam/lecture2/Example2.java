@@ -1,6 +1,6 @@
 package com.epam.lecture2;
 
-public class example2 {
+public class Example2 {
     public static void main(String[] args) {
 //        Default uncaught exception handler overriding.
         Thread.setDefaultUncaughtExceptionHandler((t, e) -> System.out.println("New default handler!"));

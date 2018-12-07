@@ -2,7 +2,7 @@ package com.epam.lecture2;
 
 import java.util.concurrent.TimeUnit;
 
-public class example3 {
+public class Example3 {
 
     public static void main(String[] args) throws InterruptedException {
         int[][] arr = new int[1000][];

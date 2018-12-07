@@ -1,6 +1,6 @@
 package com.epam.lecture3;
 
-public class example1 {
+public class Example1 {
     public static void main(String[] args) {
         Thread main = Thread.currentThread();
         System.out.println(main.getId());

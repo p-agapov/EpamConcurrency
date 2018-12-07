@@ -2,7 +2,7 @@ package com.epam.lecture3;
 
 import java.util.concurrent.TimeUnit;
 
-public class example4 {
+public class Example4 {
 
     public static void main(String[] args) throws InterruptedException {
 

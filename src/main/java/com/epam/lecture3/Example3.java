@@ -2,7 +2,7 @@ package com.epam.lecture3;
 
 import java.util.concurrent.TimeUnit;
 
-public class example3 {
+public class Example3 {
 
     public static void main(String[] args) throws InterruptedException {
         Thread.currentThread().setPriority(Thread.MIN_PRIORITY);
