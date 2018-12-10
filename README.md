@@ -1,3 +1,3 @@
 # EPAM Concurrency
 
-EPAM Spring Core course.
+EPAM Concurrency course.
